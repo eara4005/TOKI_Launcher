@@ -2,7 +2,7 @@
 
 //code name: TOKI Launcher LCD
 
-//last update: 2019/07/23
+//last update: 2019/07/29
 //author: S.Takesawa
 
 //board type: Arduino Mega
@@ -17,6 +17,7 @@
 //ハンマ（サーボ）用の関数を追加
 //打ったフリスビーをカウントするUIの処理を追加
 //シリアルモニタでデバッグをとれるように変更
+//githubを用いたバージョン管理を徹底しましょう
 /***************************************************/
 
 //include header file
